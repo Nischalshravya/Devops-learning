@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#creates folder
+mkdir creatingfiles
+
+#creates files
+cd creatingfiles
+touch firstfile secondfile
+
